@@ -12,6 +12,10 @@
 ## Веб клиенты
 - [Толстой](https://github.com/GolosChain/tolstoy) - каноничный веб-клиент
 
+## Мобильное приложение
+
+- [eSteem](https://github.com/feruzm/esteem) - iOS, Android
+
 ## Эксплореры
 
 ## Боты
