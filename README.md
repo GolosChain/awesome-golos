@@ -3,8 +3,8 @@
 ## Имплементации протокола
 - [С++](https://github.com/GolosChain/golos) - референтная имплементация протокола
 
-## Библиотеки для `gogosd`
--
+## Библиотеки для `golosd`
+- [ExGolos](https://github.com/cyberpunk-ventures/ex_golos) - Голос + Elixir
 
 ## Коннекоторы к БД
 - [Golosment](https://github.com/GolosChain/golosment) - коннектор Segment.com
