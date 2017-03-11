@@ -14,7 +14,7 @@
 
 ## Мобильное приложение
 
-- [eSteem](https://github.com/feruzm/esteem) - iOS, Android
+- [eSteem](https://github.com/esteemapp/esteem) - iOS, Android
 
 ## Эксплореры
 
@@ -23,3 +23,5 @@
 ## Импортеры
 
 ## Разное
+
+- [Голосуй](https://github.com/esteemapp/golosuy) - автономное, позволяющее принимать коллективные решения, децентрализованное приложение.
